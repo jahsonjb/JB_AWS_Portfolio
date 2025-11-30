@@ -134,7 +134,7 @@ Future improvements may include adding HTTPS on EC2 via ALB, using CloudFront Or
 
 ```
 /
-├── index.html
+├── style.css
 ├── screenshots/
 ├── README.md
 ```
